@@ -19,15 +19,14 @@ transferência.
 Conceitos utilizados:
 </h3>
 
-<li>
   <ul>
-    Loops
-    Tratamento de exceções
-    Interfaces
-    Classes Abstratas
-    Collections
-    Classe, atributos e Objetos
-    Condicionais
-    Diagrama de classes
-    </ul>
-</li>
+    <li>Loops</li>
+    <li>Tratamento de exceções</li>
+    <li>Interfaces</li>
+    <li>Classes Abstratas</li>
+    <li>Collections</li>
+    <li>Classe, atributos e Objetos</li>
+    <li>Condicionais</li>
+    <li>Diagrama de classes</li>
+  </ul>
+
